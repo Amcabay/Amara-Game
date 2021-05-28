@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0f7f08c0886a2de48981e0e7c1d090b8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Visby CF
+  fontNames:
+  - Visby CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62f9a217470c0b24e9acb70d669d9b03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
